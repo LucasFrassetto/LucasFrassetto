@@ -48,33 +48,38 @@
 📍 **University of the West of São Paulo** - Presidente Prudente, Brazil -->
 ## Experience
 
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
-<img align="right" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
 
-- 👨‍💻 **Desenvolvedor Pleno Python**\
+<img align="right" src="https://img.shields.io/badge/BitBucket-330F63?logo=bitbucket&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Django-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+<img align="right" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" />
+
+- 👨‍💻 **Desenvolvedor Pleno**\
 📆 2018 - Moment\
 📍 **NappSolutions** - Leme/SP, Brazil
 
-
 ## Skills
 
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
-<img align="right" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+
+- **Linguagens**
+
+<img align="right" src="https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray" />
+<img align="right" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Insomnia-5849be?logo=Insomnia&logoColor=white" />
+
+- **Frameworks**
+
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQLite-07405E?slogo=sqlite&logoColor=white" />
 
 
-
-
+- **Bancos de Dados**
 
 </details>
 
