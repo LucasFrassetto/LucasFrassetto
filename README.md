@@ -10,11 +10,11 @@
 
 <p align='center'>
   
-  <a href="https://www.linkedin.com/in/lucas-frassetto/">
+  <a href="https://www.linkedin.com/in/lucas-frassetto-2939a2200/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="lucasfrassetto8@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />        
+  <a href="mailto:lucasfrassetto8@gmail.com/">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasfrassetto8@gmail.com" />
   </a>&nbsp;&nbsp;
   
 </p>
@@ -68,10 +68,7 @@
 
 <img align="right" src="https://img.shields.io/badge/DJANGO-REST-ff1709?logo=django&logoColor=white&color=ff1709&labelColor=gray" />
 <img align="right" src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Insomnia-5849be?logo=Insomnia&logoColor=white" />
 
 - **Frameworks**
 
@@ -80,6 +77,12 @@
 
 
 - **Bancos de Dados**
+
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Insomnia-5849be?logo=Insomnia&logoColor=white" />
+
+- **Ferramentas**
 
 </details>
 
