@@ -94,7 +94,7 @@
 
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
-| [MonetaryTools](https://github.com/LucasFrassetto/MonetaryTools)   | Algumas ferramentas para valores monetários, como conversão higienização e validação de valores monetários  | | |
+| [MonetaryTools](https://github.com/LucasFrassetto/MonetaryTools)   | Algumas ferramentas para valores monetários, como conversão higienização e validação  | | |
 
   
 </details>
