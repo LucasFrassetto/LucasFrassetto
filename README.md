@@ -13,7 +13,7 @@
   <a href="https://www.linkedin.com/in/lucas-frassetto-2939a2200/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="mailto:lucasfrassetto8@gmail.com/">
+  <a href="mailto:lucasfrassetto8@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?&style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:lucasfrassetto8@gmail.com" />
   </a>&nbsp;&nbsp;
   
