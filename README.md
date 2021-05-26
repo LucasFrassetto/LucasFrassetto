@@ -51,7 +51,7 @@
 
 
 <img align="right" src="https://img.shields.io/badge/BitBucket-330F63??style=flat&logo=appveyor&logo=bitbucket&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=appveyor&logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=appveyor&logo=python&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=appveyor&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
 <img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=appveyor&logo=flask&logoColor=white"/>
 <img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=appveyor&logo=docker&logoColor=white"/>
