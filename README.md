@@ -50,12 +50,12 @@
 ## Experience
 
 
-<img align="right" src="https://img.shields.io/badge/BitBucket-330F63??style=flat&logo=appveyor&logo=bitbucket&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=appveyor&logo=python&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=appveyor&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-<img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=appveyor&logo=flask&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=appveyor&logo=docker&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=appveyor&logo=Selenium&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/BitBucket-330F63??style=flat&logo=bitbucket&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Django-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+<img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>
 
 - 👨‍💻 **Desenvolvedor Pleno**\
 📆 2018 - Moment\
@@ -67,21 +67,21 @@
 
 - **Linguagens**
 
-<img align="right" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=appveyor&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-<img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=appveyor&logo=flask&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=appveyor&logo=Selenium&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+<img align="right" src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>
 
 - **Frameworks**
 
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=appveyor&logo=postgresql&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=appveyor&logo=sqlite&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/>
 
 
 - **Bancos de Dados**
 
-<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=appveyor&logo=docker&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=appveyor&logo=git&logoColor=white"/>
-<img align="right" src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=appveyor&logo=Insomnia&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+<img align="right" src="https://img.shields.io/badge/Insomnia-5849be?style=flat&logo=Insomnia&logoColor=white"/>
 
 - **Ferramentas**
 
