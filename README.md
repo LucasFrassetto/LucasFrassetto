@@ -87,7 +87,7 @@
 
 </details>
 
-<details>
+<!---<details>
   <summary>📦 Packages</summary>
   
   
@@ -97,4 +97,4 @@
 | [CurrencyTools](https://github.com/LucasFrassetto/CurrencyTools)   | Algumas ferramentas para valores monetários, como conversão e higienização | | |
 
   
-</details>
+</details>--->
