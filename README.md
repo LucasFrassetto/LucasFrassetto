@@ -87,14 +87,15 @@
 
 </details>
 
-<!---<details>
+<details>
   <summary>📦 Packages</summary>
   
   
 
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
-| [CurrencyTools](https://github.com/LucasFrassetto/CurrencyTools)   | Algumas ferramentas para valores monetários, como conversão e higienização | | |
+| [CurrencyPy](https://github.com/LucasFrassetto/CurrencyPy)   | Projeto Educacional para criar im type coin para higienização e operações precisas| | |
+| [DailyDataTools](EM BREVE)   | Compilado com ferramentas de dados que utilizo diariamente| | |
 
   
-</details>--->
+</details>
