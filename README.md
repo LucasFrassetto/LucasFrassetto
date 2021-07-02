@@ -94,8 +94,9 @@
 
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
-| [CurrencyPy](https://github.com/LucasFrassetto/CurrencyPy)   | Projeto Educacional para criar im type coin para higienização e operações precisas| | |
-| [DailyDataTools](EM BREVE)   | Compilado com ferramentas de dados que utilizo diariamente| | |
+| [CurrencyPy](https://github.com/LucasFrassetto/CurrencyPy)   | Projeto Educacional para criar im type coin para higienização e operações precisas.| | |
+| [DailyDataTools](EM BREVE)   | Compilado com ferramentas de dados que utilizo diariamente.| | |
+| [BeautifulPrint](EM BREVE)   | Projeto Educacional para deixar o famoso print mais bonito e mais completo.| | |
 
   
 </details>
