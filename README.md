@@ -42,11 +42,12 @@
   <summary>📃 Resume</summary>
 
 
-<!-- ## Education
+## Education
 
-- 📖 **Web Development**\
-📆 2013 - 2016\
-📍 **University of the West of São Paulo** - Presidente Prudente, Brazil -->
+- 📖 **Ciencia de Dados**\
+📆 2021 - Atual\
+📍 **UNIVESP - Universidade Virtual do Estado de São Paulo** - Leme, São Paulo, Brazil
+ 
 ## Experience
 
 
