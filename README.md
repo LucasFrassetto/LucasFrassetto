@@ -44,7 +44,7 @@
 
 ## Education
 
-- 📖 **Ciencia de Dados**\
+- 📖 **Cincia de Dados**\
 📆 2021 - Atual\
 📍 **UNIVESP - Universidade Virtual do Estado de São Paulo** - Leme, São Paulo, Brazil
  
