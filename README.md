@@ -17,11 +17,12 @@
   </a>&nbsp;&nbsp;
 </p>
 
- <div>
-  <a href="https://github.com/wdangelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfrassetto&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfrassetto&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=lucasfrassetto&show_icons=true&count_private=true&theme=cobalt" width="350"></a>
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfrassetto&show_icons=true&count_private=true&theme=cobalt&layout=compact" width="350"></a>
+</p>
 
 <p align='center'>
   💻 Meu workspace<br/><br/>
