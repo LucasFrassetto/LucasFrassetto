@@ -96,6 +96,6 @@
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [CurrencyPy](https://github.com/LucasFrassetto/CurrencyPy)   | Projeto Educacional para criar um type coin para higienização.| | |
-| FlexTyping   | Projeto Educacional para criar uma tipagem flexivel entre estática e dinâmica para python.| | |
+| [FlexTyping](https://github.com/LucasFrassetto/FlexTyping)   | Projeto Educacional para criar uma tipagem flexivel entre estática e dinâmica para python.| | |
   
 </details>
