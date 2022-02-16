@@ -96,6 +96,6 @@
 | Name                 | A short summary                              | Install   | Downloads |
 | -------------------- | -------------------------------------------- | --------- | --------- |
 | [CurrencyPy](https://github.com/LucasFrassetto/CurrencyPy)   | Projeto Educacional para criar um type coin para higienização.| | |
-| [EnsureTyping]()   | Projeto Educacional para forçar a tipagem em python.| | |
+| [EnsureTyping](https://github.com/LucasFrassetto/EnsureTyping)   | Projeto Educacional para forçar a tipagem em python.| | |
   
 </details>
